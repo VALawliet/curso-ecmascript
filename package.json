@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/VALawliet/curso-ecmascript/issues"
   },
-  "homepage": "https://github.com/VALawliet/curso-ecmascript#readme"
+  "homepage": "https://github.com/VALawliet/curso-ecmascript#readme",
+  "type": "module"
 }
